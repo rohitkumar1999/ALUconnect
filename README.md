@@ -12,7 +12,7 @@ A social media app for ALUMNIs of different organizations
    1. Well managed database 
    2. Institute can easily message the new event which is gonna happen in college. 
    3. Easy searching in data base 
-   4. It allows Alumni to connect with the college and college have a maintained data  of all the Alumni which they  can search using our Application by these following ways 
+   4. It allows Alumni to connect with the college and college have a maintained data  of all the Alumni which they  can search using our Application by these following ways <br />
              1. Search By Name  
              2. Search By PassOut Year  
              3. Search By College Unique Id  
