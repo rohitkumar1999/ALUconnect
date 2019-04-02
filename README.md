@@ -17,6 +17,7 @@ A social media app in along with a Website for ALUMNIs of different organization
              2. Search By PassOut Year  
              3. Search By College Unique Id  
              4. Search By Any Image of Alumni you want to search  
+   5. Have a look at our website [click here](https://aluconnect.herokuapp.com/)          
              
   ## Feature of our Android Application
    1.First of all those college alumni and students can register who will have a unique college id and proper verification details.<br />
