@@ -25,6 +25,9 @@ A social media app for ALUMNIs of different organizations
    4. You can search your all mates in it but the most important feature is that you can only view those posts or you can connect to all those people who are your college mates not from any other college that is something very different from various other social media application. <br />
    5. Here you do not have any feature of adding friends,all users which are from your college are autoconnected to you after proper verification. <br />
    6. You have a option to share your User Profile directly if you want to send your details to someone simply in a .pdf format.<br />
+   7. There is no admin system in this so your college cant interrupt between the ALumni and Student. <br />
+   8. College have only right to convey messages as a post and they have a right to the well maintained database which they will get automatically in a Excel format. <br />
+   9. You can like,comment and report the user if you think that this user ot belongs to your college.Then we will have a look at it and verify it again.<br />
    
  
   
