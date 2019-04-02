@@ -17,6 +17,10 @@ A social media app for ALUMNIs of different organizations
              2. Search By PassOut Year  
              3. Search By College Unique Id  
              4. Search By Any Image of Alumni you want to search  
+             
+  ## Feature of our Android Application
+   1.First of all those college alumni and students can register who will have a unique college id and proper verification details.
+   
  
   
       
