@@ -19,12 +19,12 @@ A social media app for ALUMNIs of different organizations
              4. Search By Any Image of Alumni you want to search  
              
   ## Feature of our Android Application
-   1.First of all those college alumni and students can register who will have a unique college id and proper verification details.
-   2. You as a Alumni can easily share your post via image and text or anything to the students which are needy  or you want to share your experiences. 
-   3. UI friendly application 
-   4. You can search your all mates in it but the most important feature is that you can only view those posts or you can connect to all those people who are your college mates not from any other college that is something very different from various other social media application. 
-   5. Here you do not have any feature of adding friends,all users which are from your college are autoconnected to you after proper verification. 
-   6. You have a option to share your User Profile directly if you want to send your details to someone simply in a .pdf format.
+   1.First of all those college alumni and students can register who will have a unique college id and proper verification details.<br />
+   2. You as a Alumni can easily share your post via image and text or anything to the students which are needy  or you want to share your experiences. <br />
+   3. UI friendly application <br />
+   4. You can search your all mates in it but the most important feature is that you can only view those posts or you can connect to all those people who are your college mates not from any other college that is something very different from various other social media application. <br />
+   5. Here you do not have any feature of adding friends,all users which are from your college are autoconnected to you after proper verification. <br />
+   6. You have a option to share your User Profile directly if you want to send your details to someone simply in a .pdf format.<br />
    
  
   
