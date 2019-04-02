@@ -1,7 +1,7 @@
 # ALUconnect
 A social media app in along with a Website for ALUMNIs of different organizations <br />
 
-           ![](https://github.com/rohitkumar1999/ALUconnect/blob/master/splash.jpeg)
+![](https://github.com/rohitkumar1999/ALUconnect/blob/master/splash.jpeg)
  ## Description
  A Native  Application made for the College, dedicated to the Alumni, where they can see their friends and get to know about the recent college activities.
   
@@ -35,6 +35,20 @@ A social media app in along with a Website for ALUMNIs of different organization
    8. College have only right to convey messages as a post and they have a right to the well maintained database which they will get automatically in a Excel format. <br />
    9. You can like,comment and report the user if you think that this user ot belongs to your college.Then we will have a look at it and verify it again.<br />
    
+   ## ScreenShots of Our Android Application
+   ![](https://github.com/rohitkumar1999/ALUconnect/blob/master/feeds.jpeg)
+   
+   
+   ![](https://github.com/rohitkumar1999/ALUconnect/blob/master/ui.jpeg)
+   
+   
+   ![](https://github.com/rohitkumar1999/ALUconnect/blob/master/post.jpeg)
+   
+   
+   ![](https://github.com/rohitkumar1999/ALUconnect/blob/master/comment.jpeg)
+   
+   
+  ![](https://github.com/rohitkumar1999/ALUconnect/blob/master/userprofile.jpeg)
    ## Things we would like to improve in future(We welcome all contributions for this project)
    1. A better UI/UX <br />
    2. A messaging feature for the alumni and student interaction<br />
