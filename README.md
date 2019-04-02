@@ -1,5 +1,7 @@
 # ALUconnect
-A social media app in along with a Website for ALUMNIs of different organizations 
+A social media app in along with a Website for ALUMNIs of different organizations <br />
+
+![](https://github.com/rohitkumar1999/ALUconnect/blob/master/splash.jpeg)
  ## Description
  A Native  Application made for the College, dedicated to the Alumni, where they can see their friends and get to know about the recent college activities.
   
