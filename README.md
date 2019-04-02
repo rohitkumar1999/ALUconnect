@@ -29,7 +29,7 @@ A social media app for ALUMNIs of different organizations
    8. College have only right to convey messages as a post and they have a right to the well maintained database which they will get automatically in a Excel format. <br />
    9. You can like,comment and report the user if you think that this user ot belongs to your college.Then we will have a look at it and verify it again.<br />
    
-   ## Things we would like to improve in future(We welcome all pull requests for this project)
+   ## Things we would like to improve in future(We welcome all contributions for this project)
    1. A better UI/UX <br />
    2. A messaging feature for the alumni and student interaction<br />
    3. A OTP verification of the user along with the college verification<br />
@@ -37,6 +37,13 @@ A social media app for ALUMNIs of different organizations
    5. All other suggestions are most welcomed <br />
    
    ## Technologies Used
+   - Android Studio
+   - JAVA
+   - Firebase
+   - HTML
+   - CSS
+   - PyBase
+   - Face Recognition
     
    
    
